@@ -31,4 +31,4 @@ create captcha with qiniu watermark api.
 ## 后语
 以上，给大家提供一种图片验证码的生成思路，至于如何验证用户的请求，那就是另一件事了。
 
-
+原文来自阿星的博客： [https://wanyaxing.com/blog/20190807123507.html](https://wanyaxing.com/blog/20190807123507.html)
